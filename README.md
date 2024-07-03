@@ -1,2 +1,2 @@
-# Log-In
-Simple Log In page using HTML and CSS
+# Portfolio Card
+Simple portfolio card using HTML and CSS
